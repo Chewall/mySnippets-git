@@ -1,34 +1,11 @@
-# mysnippets-git
+## p1
 
-An Electron application with React and TypeScript
+### b1
 
-## Recommended IDE Setup
+- 1.初始项目
+  ```bash
+  pnpm create @quick-start/electron
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ pnpm install
-```
-
-### Development
-
-```bash
-$ pnpm dev
-```
-
-### Build
-
-```bash
-# For windows
-$ pnpm build:win
-
-# For macOS
-$ pnpm build:mac
-
-# For Linux
-$ pnpm build:linux
-```
+  ```
+- ![image.png](assets/image.png)
+- 2.
